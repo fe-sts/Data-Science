@@ -1,0 +1,13 @@
+2. Planejamento de solução:
+
+2.1. Produto Final ( O que eu vou entregar? Planilha, email, gráﬁco, modelo de ML … )
+- Email + 2 anexos:
+	- Email:
+		- Texto: Perguntas | Respostas
+	- Anexo:
+		- Um relatório em .csv
+	- A foto de um mapa em html.
+
+2.2. Ferramenta ( Qual ferramenta eu vou usar? )
+- Python 3.8.0
+- PyCharm
